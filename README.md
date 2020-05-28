@@ -1,1 +1,5 @@
 README
+
+Environment
+MAC OS
+
